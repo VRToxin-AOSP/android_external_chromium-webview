@@ -1,0 +1,3 @@
+Prebuilt WebViewGoogle apks grabbed from APKMIRROR based on version 47.0.2526.35
+
+Note: Usage of this repo requires you have WebViewGoogle listed in build/target/core_minimal.mk
